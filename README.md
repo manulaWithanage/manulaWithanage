@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manulaWithanage/manulaWithanage/main/assets/terminal-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manulaWithanage/manulaWithanage/main/assets/terminal-light.svg">
-    <img src="https://raw.githubusercontent.com/manulaWithanage/manulaWithanage/main/assets/terminal-dark.svg" alt="Terminal: Manula Withanage, Founder @ MettaByte and Technical Product Lead. Focus: LLM products, RAG systems, AI-agent dev workflows." width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manulaWithanage/manulaWithanage/main/assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manulaWithanage/manulaWithanage/main/assets/hero-light.svg">
+    <img src="https://raw.githubusercontent.com/manulaWithanage/manulaWithanage/main/assets/hero-dark.svg" alt="Manula Withanage: Founder @ MettaByte, Technical Product Lead. LLM products, RAG systems, AI-agent dev workflows." width="100%">
   </picture>
 </p>
 
